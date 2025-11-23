@@ -1,0 +1,3 @@
+A Capstone project is a key step in many college and university programs, allowing students to apply the skills they have acquired throughout their studies. All students in the Post Graduate Program in Artificial Intelligence (AI) and Machine Learning (ML) offered by Eduraka in collaboration with Illinois Institute of Technology, must perform a capstone project to conclude their PG Program in AI and ML.
+The goal of the capstone project, elaborated in this document, is to develop a web application using Streamlit that enables users to translate text into various languages, convert the translated text into speech, and download the resulting audio file..
+
